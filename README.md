@@ -1,2 +1,2 @@
 # bot-evil
-Simple telegram bot by go lang
+Simple telegram bot by go lang.
